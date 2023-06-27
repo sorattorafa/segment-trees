@@ -202,7 +202,7 @@ void customInput(){ //Vetor e operacao a definir
 }
 
 int main() {
-    defaultInput();
-    // customInput();
+    // defaultInput();
+    customInput();
     return 0;
 }
